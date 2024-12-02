@@ -580,7 +580,7 @@ msgstr "默认"
 msgid "Close"
 msgstr "关闭"
 
-msgid "Closs(Not use)"
+msgid "Close(Not use)"
 msgstr "不使用落地"
 
 msgid "Hijacking ICMP (PING)"
