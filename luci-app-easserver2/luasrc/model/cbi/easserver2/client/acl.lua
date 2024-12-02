@@ -16,9 +16,9 @@ o.default = false
 -- [[ ACLs Settings ]]--
 s = m:section(TypedSection, "acl_rule")
 s.template = "cbi/tblsection"
-s.sortable = true
+--s.sortable = true
 s.anonymous = true
-s.addremove = true
+--s.addremove = true
 s.extedit = api.url("acl_config", "%s")
 function s.create(e, t)
 	t = TypedSection.create(e, t)
